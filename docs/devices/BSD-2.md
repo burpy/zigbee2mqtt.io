@@ -30,7 +30,14 @@ pageClass: device-page
 - Add this install code under Settings -> Tools -> Add install code
 <!-- Notes END: Do not edit below this line -->
 
+### Factory resetting
 
+- Remove the battery
+- Wait 20 seconds or press the operating pushbutton (= surface) again briefly after removing the battery.
+- While holding down the operating pushbutton, reinsert the battery.
+- Press and hold the operating pushbutton until the smoke detector flashes red under the surface of the operating pushbutton.
+- Briefly release the operating pushbutton and press it again and hold it down until a brief acoustic signal sounds.
+- The device now restarts with factory settings and can be paired.
 
 
 ## Exposes
